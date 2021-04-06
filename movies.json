@@ -1,0 +1,14 @@
+{
+  "movies": [
+    {
+      "title": "Star Wars",
+      "director": "George Lucas",
+      "type":"sifi"
+    },
+    {
+      "title": "Happy Gilmore",
+      "director": "hello",
+      "type":"comedy"
+    }
+  ]
+}
